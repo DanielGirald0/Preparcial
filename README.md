@@ -15,8 +15,7 @@ Proyecto que busca mostrar ejemplos de lógica con condicionales, ciclos y estru
 ***3208708671***
 ***
 ### Ejecutar:
-`python ejemplo1.py`   
-`python ejemplo2.py`
+`python empanadas.py`
 
 ### Enlaces relacionados
 [Pagina aliada](http://www.google.com)
